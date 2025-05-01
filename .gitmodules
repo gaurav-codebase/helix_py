@@ -1,0 +1,3 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:gaurav-codebase/helix_frontend.git
