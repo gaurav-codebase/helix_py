@@ -1,0 +1,7 @@
+name = "helix-worker"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+account_id = "6d3fd2afd34af51f63222a1e31d95b66"  # Replace with your actual Cloudflare Account ID
+
+[triggers]
+crons = [] 
